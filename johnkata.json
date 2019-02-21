@@ -1,0 +1,11 @@
+{
+    "firstName": "John",
+    "lastName": "Kata",
+    "preferredName": "John",
+    "email": "johnkata@lewisu.edu",
+    "phoneNumber": null,
+    "city": "Tinley Park",
+    "state": "IL",
+    "favoriteHobby": "Skiing",
+    "seatLocation": null
+}
